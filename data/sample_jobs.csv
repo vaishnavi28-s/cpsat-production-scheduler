@@ -1,0 +1,151 @@
+JOB,PRODUCTTYPE,PRESS_LOCATION,SEND_TO_LOCATION,PAPER,FINISHTYPE,FINISHINGOP,DELIVERYDATE,INKSS1,INKSS2,QUANTITYORDERED,PAGES
+100001,Jacket,Martinsburg - BVG,BERRYVILLE,80# Gloss Text 28 x 20,Foil Stamp,Spot UV,2026-05-17,"C, M, Y, K, Black",K,1500,320
+100002,Jacket,Fairfield - BVG,"Offset Paperback MFG, Inc.",100# Gloss Text 28 x 20,Lamination,Scuff Matte Polypropylene,2026-05-08,"C, M, Y, K, PMS 485",K,2500,256
+100003,Jacket,Fairfield - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Lamination+UV Spot,Emboss,2026-03-31,"C, M, Y, K, PMS 286, PMS 877",K,10000,128
+100004,Jacket,"Offset Paperback MFG, Inc.",BERRYVILLE,100# Gloss Text 25 x 38,UV Spot,Foil,2026-04-05,"C, M, Y, K",,3500,48
+100005,Cover,Martinsburg - BVG,BERRYVILLE,70# Uncoated Text 25 x 38,Press Varnish,Gloss Polypropylene+Spot UV,2026-05-04,"C, M, Y, K",,1000,224
+100006,Jacket,"Offset Paperback MFG, Inc.",Martinsburg - BVG,100# Gloss Cover 20 x 26,Emboss,Aqueous,2026-04-02,"C, M, Y, K",,2500,48
+100007,Jacket,BERRYVILLE,Martinsburg - BVG,70# Uncoated Text 25 x 38,Foil Stamp,Soft Touch Poly,2026-05-10,"C, M, Y, K, PMS 286, PMS 877",K,3000,224
+100008,Cover,BERRYVILLE GRAPHICS,BERRYVILLE,100# Gloss Text 25 x 38,Foil Stamp,Gloss Polypropylene+Spot UV,2026-04-04,"C, M, Y, K, Black",K,15000,320
+100009,Jacket,Fairfield - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20,Lamination+Emboss,Press Varnish,2026-04-14,"C, M, Y, K","C, M, Y, K",15000,256
+100010,Cover,Martinsburg - BVG,BERRYVILLE GRAPHICS,70# Uncoated Text 25 x 38,Lamination,Matte Polypropylene+Spot UV+Emboss,2026-04-13,"C, M, Y, K, PMS 286, PMS 877",K,3000,48
+100011,Cover,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",80# Matte Text 28 x 20,Lamination+Emboss,Spot UV,2026-05-17,"C, M, Y, K","C, M, Y, K",2000,96
+100012,Cover,Fairfield - BVG,"Offset Paperback MFG, Inc.",100# Gloss Cover 20 x 26,Lamination+UV Spot,Aqueous,2026-05-01,"C, M, Y, K, PMS 485",K,2000,256
+100013,Jacket,Martinsburg - BVG,Martinsburg - BVG,80# Gloss Text 28 x 20,UV Spot,GSP Gloss OPP,2026-04-24,"C, M, Y, K",,1500,192
+100014,Cover,Fairfield - BVG,BERRYVILLE,100# Gloss Cover 20 x 26,Lamination,Soft Touch Poly,2026-05-19,"C, M, Y, K, Black",K,7500,128
+100015,Cover,Martinsburg - BVG,BERRYVILLE,80# Matte Text 28 x 20,UV Spot,Layflat Gloss,2026-05-02,"C, M, Y, K",,20000,128
+100016,Jacket,Fairfield - BVG,Martinsburg - BVG,70# Uncoated Text 25 x 38,Emboss,Foil,2026-05-04,"C, M, Y, K, PMS 485",K,3500,64
+100017,Jacket,Fairfield - BVG,BERRYVILLE,80# Matte Text 28 x 20,Lamination,Soft Touch Poly,2026-04-03,"C, M, Y, K","C, M, Y, K",3000,96
+100018,Jacket,Fairfield - BVG,Martinsburg - BVG,100# Gloss Text 28 x 20,Lamination+Emboss,Scuff Matte Polypropylene,2026-04-08,"C, M, Y, K",,7500,64
+100019,Cover,Fairfield - BVG,BERRYVILLE GRAPHICS,100# Gloss Text 25 x 38,Lamination+UV Spot,Foil,2026-05-15,"C, M, Y, K",,20000,96
+100020,Cover,"Offset Paperback MFG, Inc.",BERRYVILLE,80# Matte Text 28 x 20,Lamination+Emboss,Soft Touch Poly,2026-04-21,"C, M, Y, K, PMS 485",K,2500,48
+100021,Jacket,Fairfield - BVG,Fairfield - BVG,80# Gloss Text 28 x 20,Foil Stamp,Gloss Polypropylene,2026-04-03,"C, M, Y, K",,20000,320
+100022,Jacket,Martinsburg - BVG,Martinsburg - BVG,70# Uncoated Text 25 x 38,Press Varnish,Scuff Matte Polypropylene,2026-05-12,"C, M, Y, K",,2500,128
+100023,Cover,BERRYVILLE GRAPHICS,Fairfield - BVG,80# Gloss Text 28 x 20,Lamination+Emboss,Emboss,2026-04-12,"C, M, Y, K",,5000,192
+100024,Jacket,Martinsburg - BVG,"Offset Paperback MFG, Inc.",100# Gloss Text 25 x 38,Lamination+UV Spot,GSP Gloss OPP,2026-05-13,"C, M, Y, K, PMS 286, PMS 877",K,20000,32
+100025,Jacket,Martinsburg - BVG,"Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,Press Varnish,Soft Touch Poly,2026-05-04,"C, M, Y, K, PMS 485",K,2500,96
+100026,Cover,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20,Emboss,Layflat Gloss,2026-05-05,"C, M, Y, K, PMS 485",K,1500,224
+100027,Jacket,Martinsburg - BVG,Fairfield - BVG,70# Uncoated Text 25 x 38,Lamination,Scuff Matte Polypropylene,2026-04-26,"C, M, Y, K",,2500,64
+100028,Cover,"Offset Paperback MFG, Inc.",BERRYVILLE GRAPHICS,70# Uncoated Text 25 x 38,Lamination+UV Spot,Matte Polypropylene,2026-04-24,"C, M, Y, K, PMS 485",K,4000,32
+100029,Cover,"Offset Paperback MFG, Inc.",BERRYVILLE,80# Matte Text 28 x 20,Lamination+Emboss,Spot UV,2026-04-03,"C, M, Y, K, PMS 485",K,3000,96
+100030,Jacket,BERRYVILLE,Martinsburg - BVG,100# Gloss Text 28 x 20,Lamination+Emboss,Spot Gloss,2026-04-11,"C, M, Y, K",,7500,48
+100031,Jacket,Fairfield - BVG,Martinsburg - BVG,80# Gloss Text 28 x 20 1/2,Foil Stamp,Press Varnish,2026-05-07,"C, M, Y, K",,10000,96
+100032,Jacket,Fairfield - BVG,Martinsburg - BVG,80# Matte Text 28 x 20,Press Varnish,Gloss Polypropylene+Spot UV,2026-04-15,"C, M, Y, K, PMS 485",K,15000,160
+100033,Cover,"Offset Paperback MFG, Inc.",BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Emboss,Layflat Gloss,2026-04-29,"C, M, Y, K","C, M, Y, K",1500,32
+100034,Jacket,Martinsburg - BVG,Fairfield - BVG,80# Gloss Text 28 x 20,Emboss,Spot UV,2026-04-23,"C, M, Y, K","C, M, Y, K",1500,96
+100035,Cover,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",70# Uncoated Text 25 x 38,Emboss,Gloss Polypropylene,2026-05-12,"C, M, Y, K, Black",K,7500,128
+100036,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE,100# Gloss Text 28 x 20,UV Overall,Spot UV,2026-04-13,"C, M, Y, K","C, M, Y, K",3000,288
+100037,Cover,BERRYVILLE GRAPHICS,BERRYVILLE,100# Gloss Cover 20 x 26,Lamination+Emboss,Gloss Polypropylene+Spot UV,2026-05-10,"C, M, Y, K",,1000,48
+100038,Cover,BERRYVILLE,Martinsburg - BVG,100# Gloss Text 28 x 20,Press Varnish,Spot UV,2026-05-17,"C, M, Y, K, Black",K,3000,64
+100039,Cover,Fairfield - BVG,"Offset Paperback MFG, Inc.",100# Gloss Cover 20 x 26,Lamination,Soft Touch Poly,2026-05-04,"C, M, Y, K",,20000,64
+100040,Jacket,BERRYVILLE,Fairfield - BVG,100# Gloss Cover 20 x 26,UV Spot,GSP Gloss OPP,2026-04-23,"C, M, Y, K, PMS 485",K,1000,128
+100041,Jacket,BERRYVILLE,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Foil Stamp,Soft Touch Poly,2026-05-09,"C, M, Y, K","C, M, Y, K",7500,192
+100042,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE GRAPHICS,70# Uncoated Text 25 x 38,UV Spot,GSP Gloss OPP,2026-05-20,"C, M, Y, K",,2000,160
+100043,Cover,BERRYVILLE GRAPHICS,BERRYVILLE,80# Gloss Text 28 x 20,UV Overall,Press Varnish,2026-04-14,"C, M, Y, K",,1000,224
+100044,Jacket,"Offset Paperback MFG, Inc.",BERRYVILLE,100# Gloss Text 25 x 38,Foil Stamp,Emboss,2026-04-25,"C, M, Y, K",,15000,96
+100045,Cover,BERRYVILLE,Martinsburg - BVG,70# Uncoated Text 25 x 38,Emboss,Aqueous,2026-05-13,"C, M, Y, K, Black",K,7500,192
+100046,Cover,Martinsburg - BVG,Martinsburg - BVG,100# Gloss Text 25 x 38,UV Spot,Gloss Polypropylene+Spot UV,2026-04-27,"C, M, Y, K",,1500,288
+100047,Cover,BERRYVILLE,"Offset Paperback MFG, Inc.",100# Gloss Cover 20 x 26,UV Overall,Press Varnish,2026-04-02,"C, M, Y, K",,2500,128
+100048,Cover,Martinsburg - BVG,Fairfield - BVG,70# Uncoated Text 25 x 38,Foil Stamp,Aqueous,2026-04-21,"C, M, Y, K, PMS 286, PMS 877",K,1500,320
+100049,Cover,Martinsburg - BVG,BERRYVILLE,100# Gloss Cover 20 x 26,Emboss,GSP Gloss OPP,2026-05-05,"C, M, Y, K","C, M, Y, K",4000,128
+100050,Jacket,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,Lamination+UV Spot,Spot Gloss,2026-04-25,"C, M, Y, K",,10000,128
+100051,Jacket,BERRYVILLE,BERRYVILLE,80# Gloss Text 28 x 20,Lamination+UV Spot,Matte Polypropylene+Spot UV+Emboss,2026-05-13,"C, M, Y, K, PMS 286, PMS 877",K,5000,224
+100052,Jacket,Fairfield - BVG,"Offset Paperback MFG, Inc.",70# Uncoated Text 25 x 38,UV Spot,Scuff Matte Polypropylene,2026-05-10,"C, M, Y, K","C, M, Y, K",7500,320
+100053,Cover,Martinsburg - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Emboss,Emboss,2026-04-01,"C, M, Y, K",,2500,64
+100054,Jacket,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",100# Gloss Cover 20 x 26,UV Overall,Layflat Gloss,2026-04-12,"C, M, Y, K, PMS 286, PMS 877",K,15000,288
+100055,Cover,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20,UV Spot,Gloss Polypropylene,2026-04-14,"C, M, Y, K",,1500,192
+100056,Jacket,Fairfield - BVG,"Offset Paperback MFG, Inc.",100# Gloss Text 28 x 20,Foil Stamp,Soft Touch Poly,2026-05-12,"C, M, Y, K, PMS 286, PMS 877",K,2000,224
+100057,Cover,"Offset Paperback MFG, Inc.",Fairfield - BVG,70# Uncoated Text 25 x 38,Lamination+UV Spot,Layflat Gloss,2026-04-28,"C, M, Y, K, PMS 485",K,20000,224
+100058,Cover,BERRYVILLE GRAPHICS,BERRYVILLE,70# Uncoated Text 25 x 38,Lamination+Emboss,Emboss,2026-05-15,"C, M, Y, K","C, M, Y, K",5000,48
+100059,Cover,BERRYVILLE GRAPHICS,BERRYVILLE,100# Gloss Text 25 x 38,Press Varnish,Scuff Matte Polypropylene,2026-04-24,"C, M, Y, K, PMS 485",K,2000,96
+100060,Jacket,BERRYVILLE GRAPHICS,Martinsburg - BVG,80# Matte Text 28 x 20,Lamination+UV Spot,Matte Polypropylene+Spot UV+Emboss,2026-04-03,"C, M, Y, K",,5000,192
+100061,Jacket,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",70# Uncoated Text 25 x 38,Lamination,Press Varnish,2026-04-19,"C, M, Y, K, PMS 286, PMS 877",K,1000,160
+100062,Cover,"Offset Paperback MFG, Inc.",Fairfield - BVG,80# Gloss Text 28 x 20 1/2,Foil Stamp,Layflat Matte,2026-05-01,"C, M, Y, K, PMS 485",K,3000,192
+100063,Jacket,"Offset Paperback MFG, Inc.",BERRYVILLE,80# Gloss Text 28 x 20 1/2,Lamination+UV Spot,Spot Gloss,2026-05-09,"C, M, Y, K",,5000,64
+100064,Jacket,"Offset Paperback MFG, Inc.",Fairfield - BVG,100# Gloss Cover 20 x 26,Lamination,Scuff Matte Polypropylene,2026-04-29,"C, M, Y, K, Black",K,4000,64
+100065,Jacket,Martinsburg - BVG,BERRYVILLE,80# Matte Text 28 x 20,Press Varnish,Foil,2026-05-18,"C, M, Y, K, PMS 286, PMS 877",K,3500,160
+100066,Cover,BERRYVILLE,"Offset Paperback MFG, Inc.",100# Gloss Text 25 x 38,UV Overall,Layflat Matte,2026-04-03,"C, M, Y, K",,20000,256
+100067,Cover,BERRYVILLE GRAPHICS,Martinsburg - BVG,70# Uncoated Text 25 x 38,Lamination,Gloss Polypropylene,2026-05-09,"C, M, Y, K, PMS 485",K,2500,32
+100068,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE GRAPHICS,80# Matte Text 28 x 20,UV Overall,Foil,2026-05-19,"C, M, Y, K, PMS 286, PMS 877",K,20000,128
+100069,Cover,BERRYVILLE GRAPHICS,Fairfield - BVG,100# Gloss Cover 20 x 26,UV Overall,Spot Gloss,2026-04-01,"C, M, Y, K","C, M, Y, K",1500,288
+100070,Cover,Fairfield - BVG,"Offset Paperback MFG, Inc.",80# Matte Text 28 x 20,Foil Stamp,Scuff Matte Polypropylene,2026-04-15,"C, M, Y, K",,20000,320
+100071,Jacket,BERRYVILLE,Fairfield - BVG,70# Uncoated Text 25 x 38,UV Overall,Matte Polypropylene,2026-05-12,"C, M, Y, K","C, M, Y, K",7500,192
+100072,Cover,Martinsburg - BVG,Fairfield - BVG,80# Gloss Text 28 x 20 1/2,Press Varnish,Gloss Polypropylene,2026-04-06,"C, M, Y, K",,4000,224
+100073,Cover,BERRYVILLE,"Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,UV Spot,GSP Gloss OPP,2026-05-11,"C, M, Y, K, PMS 485",K,20000,256
+100074,Cover,Fairfield - BVG,Fairfield - BVG,70# Uncoated Text 25 x 38,Lamination+Emboss,Layflat Gloss,2026-04-17,"C, M, Y, K, PMS 286, PMS 877",K,20000,288
+100075,Cover,BERRYVILLE GRAPHICS,Martinsburg - BVG,100# Gloss Text 25 x 38,Lamination+Emboss,Emboss,2026-05-09,"C, M, Y, K",,5000,288
+100076,Cover,BERRYVILLE,Martinsburg - BVG,80# Matte Text 28 x 20,Press Varnish,Spot Gloss,2026-04-16,"C, M, Y, K, PMS 286, PMS 877",K,2500,160
+100077,Cover,BERRYVILLE,Fairfield - BVG,80# Gloss Text 28 x 20 1/2,Emboss,Gloss Polypropylene,2026-04-15,"C, M, Y, K",,2500,48
+100078,Cover,"Offset Paperback MFG, Inc.",Fairfield - BVG,70# Uncoated Text 25 x 38,Foil Stamp,Layflat Matte,2026-04-28,"C, M, Y, K, Black",K,20000,224
+100079,Jacket,Martinsburg - BVG,BERRYVILLE,80# Gloss Text 28 x 20,Lamination+UV Spot,Emboss,2026-04-23,"C, M, Y, K","C, M, Y, K",15000,288
+100080,Cover,Fairfield - BVG,Fairfield - BVG,100# Gloss Text 25 x 38,Lamination+UV Spot,Matte Polypropylene+Spot UV+Emboss,2026-04-17,"C, M, Y, K","C, M, Y, K",20000,224
+100081,Cover,BERRYVILLE,BERRYVILLE GRAPHICS,100# Gloss Text 28 x 20,Foil Stamp,Matte Polypropylene+Spot UV+Emboss,2026-05-18,"C, M, Y, K",,20000,256
+100082,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Lamination+Emboss,Gloss Polypropylene+Spot UV,2026-05-08,"C, M, Y, K, Black",K,10000,256
+100083,Cover,Martinsburg - BVG,BERRYVILLE GRAPHICS,100# Gloss Text 25 x 38,Foil Stamp,Aqueous,2026-05-15,"C, M, Y, K, PMS 485",K,3000,32
+100084,Jacket,BERRYVILLE,Martinsburg - BVG,100# Gloss Text 28 x 20,Emboss,Spot UV,2026-03-31,"C, M, Y, K, Black",K,5000,48
+100085,Cover,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",80# Matte Text 28 x 20,Press Varnish,Spot Gloss,2026-04-07,"C, M, Y, K",,3000,224
+100086,Jacket,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",100# Gloss Text 28 x 20,Lamination,Spot UV,2026-04-05,"C, M, Y, K, PMS 485",K,10000,128
+100087,Jacket,Martinsburg - BVG,Fairfield - BVG,70# Uncoated Text 25 x 38,Lamination+UV Spot,Emboss,2026-04-28,"C, M, Y, K",,7500,192
+100088,Cover,BERRYVILLE,Fairfield - BVG,80# Matte Text 28 x 20,Emboss,Matte Polypropylene,2026-05-18,"C, M, Y, K",,20000,48
+100089,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE,80# Gloss Text 28 x 20 1/2,UV Overall,Spot Gloss,2026-04-04,"C, M, Y, K, PMS 485",K,2000,256
+100090,Jacket,Martinsburg - BVG,"Offset Paperback MFG, Inc.",80# Matte Text 28 x 20,Lamination+Emboss,Matte Polypropylene+Foil,2026-05-15,"C, M, Y, K",,2500,128
+100091,Cover,"Offset Paperback MFG, Inc.",Martinsburg - BVG,80# Gloss Text 28 x 20 1/2,Foil Stamp,Gloss Polypropylene+Spot UV,2026-05-12,"C, M, Y, K",,15000,288
+100092,Jacket,"Offset Paperback MFG, Inc.",Martinsburg - BVG,100# Gloss Cover 20 x 26,Foil Stamp,Spot UV,2026-04-03,"C, M, Y, K","C, M, Y, K",2000,48
+100093,Jacket,BERRYVILLE,Fairfield - BVG,80# Gloss Text 28 x 20 1/2,Emboss,Layflat Gloss,2026-05-14,"C, M, Y, K",,5000,128
+100094,Cover,BERRYVILLE,Fairfield - BVG,100# Gloss Cover 20 x 26,Lamination+Emboss,Layflat Gloss,2026-04-27,"C, M, Y, K",,10000,32
+100095,Cover,Fairfield - BVG,BERRYVILLE,100# Gloss Text 28 x 20,UV Overall,Emboss,2026-04-01,"C, M, Y, K, Black",K,10000,288
+100096,Cover,Fairfield - BVG,Martinsburg - BVG,70# Uncoated Text 25 x 38,UV Spot,Layflat Matte,2026-04-17,"C, M, Y, K",,15000,224
+100097,Jacket,Fairfield - BVG,"Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,Lamination+Emboss,Scuff Matte Polypropylene,2026-04-21,"C, M, Y, K, PMS 286, PMS 877",K,3500,192
+100098,Cover,Martinsburg - BVG,BERRYVILLE GRAPHICS,100# Gloss Text 25 x 38,Lamination+UV Spot,Layflat Matte,2026-05-18,"C, M, Y, K","C, M, Y, K",15000,192
+100099,Jacket,"Offset Paperback MFG, Inc.",Martinsburg - BVG,100# Gloss Text 25 x 38,Emboss,Matte Polypropylene+Spot UV+Emboss,2026-03-31,"C, M, Y, K",,4000,256
+100100,Cover,"Offset Paperback MFG, Inc.",Martinsburg - BVG,80# Gloss Text 28 x 20,Press Varnish,Layflat Matte,2026-04-13,"C, M, Y, K, Black",K,5000,32
+100101,Cover,Fairfield - BVG,BERRYVILLE GRAPHICS,100# Gloss Text 25 x 38,Lamination+Emboss,Layflat Matte,2026-05-08,"C, M, Y, K",,1000,320
+100102,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE,100# Gloss Cover 20 x 26,Lamination,GSP Gloss OPP,2026-04-29,"C, M, Y, K",,2500,48
+100103,Jacket,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,Emboss,Gloss Polypropylene+Spot UV,2026-04-15,"C, M, Y, K, PMS 286, PMS 877",K,5000,224
+100104,Cover,Fairfield - BVG,BERRYVILLE GRAPHICS,80# Matte Text 28 x 20,Foil Stamp,Spot UV,2026-05-19,"C, M, Y, K",,1500,128
+100105,Cover,BERRYVILLE,Fairfield - BVG,100# Gloss Text 25 x 38,Lamination,Matte Polypropylene+Foil,2026-05-07,"C, M, Y, K, Black",K,3000,288
+100106,Cover,BERRYVILLE GRAPHICS,"Offset Paperback MFG, Inc.",100# Gloss Cover 20 x 26,Lamination+Emboss,Aqueous,2026-04-24,"C, M, Y, K","C, M, Y, K",7500,256
+100107,Cover,BERRYVILLE,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Foil Stamp,Press Varnish,2026-04-20,"C, M, Y, K, PMS 485",K,4000,32
+100108,Cover,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,UV Spot,Layflat Matte,2026-05-07,"C, M, Y, K",,2000,256
+100109,Cover,Martinsburg - BVG,"Offset Paperback MFG, Inc.",100# Gloss Text 28 x 20,Lamination+Emboss,Gloss Polypropylene,2026-05-11,"C, M, Y, K, Black",K,2000,192
+100110,Jacket,Martinsburg - BVG,"Offset Paperback MFG, Inc.",70# Uncoated Text 25 x 38,Emboss,Matte Polypropylene+Spot UV+Emboss,2026-05-11,"C, M, Y, K",,20000,192
+100111,Jacket,BERRYVILLE,Fairfield - BVG,80# Matte Text 28 x 20,Press Varnish,Layflat Matte,2026-05-09,"C, M, Y, K",,7500,32
+100112,Jacket,BERRYVILLE GRAPHICS,BERRYVILLE,80# Gloss Text 28 x 20,UV Overall,GSP Gloss OPP,2026-04-28,"C, M, Y, K",,15000,48
+100113,Jacket,BERRYVILLE,Martinsburg - BVG,100# Gloss Text 28 x 20,Press Varnish,Matte Polypropylene,2026-04-27,"C, M, Y, K","C, M, Y, K",3500,160
+100114,Jacket,BERRYVILLE GRAPHICS,Fairfield - BVG,80# Matte Text 28 x 20,UV Spot,Spot Gloss,2026-04-24,"C, M, Y, K, PMS 485",K,1500,288
+100115,Jacket,"Offset Paperback MFG, Inc.",Fairfield - BVG,80# Gloss Text 28 x 20,Foil Stamp,Layflat Gloss,2026-04-16,"C, M, Y, K, Black",K,3000,224
+100116,Jacket,"Offset Paperback MFG, Inc.",BERRYVILLE,80# Gloss Text 28 x 20 1/2,UV Spot,Scuff Matte Polypropylene,2026-04-19,"C, M, Y, K, PMS 286, PMS 877",K,3500,288
+100117,Cover,BERRYVILLE,"Offset Paperback MFG, Inc.",70# Uncoated Text 25 x 38,Emboss,Foil,2026-04-15,"C, M, Y, K, PMS 286, PMS 877",K,5000,48
+100118,Cover,Fairfield - BVG,BERRYVILLE,100# Gloss Cover 20 x 26,Emboss,Matte Polypropylene+Foil,2026-04-17,"C, M, Y, K",,15000,192
+100119,Jacket,Fairfield - BVG,Martinsburg - BVG,100# Gloss Cover 20 x 26,Lamination+Emboss,Matte Polypropylene+Foil,2026-04-22,"C, M, Y, K",,2500,288
+100120,Jacket,BERRYVILLE GRAPHICS,Fairfield - BVG,100# Gloss Text 25 x 38,UV Spot,Soft Touch Poly,2026-04-19,"C, M, Y, K, Black",K,15000,32
+100121,Cover,Martinsburg - BVG,Fairfield - BVG,100# Gloss Text 25 x 38,UV Spot,Scuff Matte Polypropylene,2026-04-11,"C, M, Y, K","C, M, Y, K",3500,192
+100122,Jacket,BERRYVILLE GRAPHICS,Fairfield - BVG,100# Gloss Text 25 x 38,Emboss,Spot Gloss,2026-05-17,"C, M, Y, K","C, M, Y, K",5000,128
+100123,Cover,Martinsburg - BVG,"Offset Paperback MFG, Inc.",100# Gloss Text 28 x 20,UV Spot,Emboss,2026-04-25,"C, M, Y, K",,15000,320
+100124,Cover,Martinsburg - BVG,"Offset Paperback MFG, Inc.",100# Gloss Text 28 x 20,Emboss,Soft Touch Poly,2026-05-17,"C, M, Y, K, PMS 286, PMS 877",K,3500,320
+100125,Cover,Fairfield - BVG,"Offset Paperback MFG, Inc.",70# Uncoated Text 25 x 38,Press Varnish,Soft Touch Poly,2026-04-01,"C, M, Y, K, Black",K,2500,224
+100126,Cover,Fairfield - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,UV Overall,Layflat Gloss,2026-04-26,"C, M, Y, K, Black",K,3000,320
+100127,Jacket,BERRYVILLE GRAPHICS,Martinsburg - BVG,100# Gloss Text 28 x 20,Emboss,Layflat Matte,2026-05-04,"C, M, Y, K",,1500,96
+100128,Jacket,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",100# Gloss Text 25 x 38,Lamination+UV Spot,Spot UV,2026-05-01,"C, M, Y, K, PMS 286, PMS 877",K,15000,48
+100129,Cover,BERRYVILLE,Martinsburg - BVG,80# Gloss Text 28 x 20 1/2,Press Varnish,Foil,2026-04-23,"C, M, Y, K, PMS 286, PMS 877",K,5000,96
+100130,Jacket,BERRYVILLE,Fairfield - BVG,80# Gloss Text 28 x 20 1/2,Press Varnish,Matte Polypropylene,2026-04-07,"C, M, Y, K, PMS 286, PMS 877",K,3000,96
+100131,Cover,Martinsburg - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Lamination,Matte Polypropylene,2026-04-08,"C, M, Y, K",,3500,96
+100132,Jacket,Martinsburg - BVG,Fairfield - BVG,80# Gloss Text 28 x 20,Foil Stamp,Emboss,2026-03-31,"C, M, Y, K","C, M, Y, K",2000,288
+100133,Cover,BERRYVILLE GRAPHICS,BERRYVILLE GRAPHICS,100# Gloss Cover 20 x 26,Emboss,Spot Gloss,2026-04-08,"C, M, Y, K",,15000,32
+100134,Jacket,BERRYVILLE,BERRYVILLE GRAPHICS,100# Gloss Cover 20 x 26,Press Varnish,Gloss Polypropylene,2026-04-08,"C, M, Y, K, PMS 485",K,3000,32
+100135,Cover,Fairfield - BVG,Martinsburg - BVG,80# Gloss Text 28 x 20 1/2,UV Overall,Layflat Matte,2026-05-07,"C, M, Y, K, PMS 286, PMS 877",K,3500,256
+100136,Jacket,"Offset Paperback MFG, Inc.",Fairfield - BVG,80# Gloss Text 28 x 20,Lamination,Matte Polypropylene+Foil,2026-04-03,"C, M, Y, K, PMS 286, PMS 877",K,15000,32
+100137,Cover,"Offset Paperback MFG, Inc.","Offset Paperback MFG, Inc.",80# Gloss Text 28 x 20 1/2,UV Overall,Layflat Matte,2026-04-05,"C, M, Y, K, Black",K,5000,48
+100138,Cover,Fairfield - BVG,BERRYVILLE GRAPHICS,100# Gloss Text 28 x 20,UV Spot,Gloss Polypropylene+Spot UV,2026-05-05,"C, M, Y, K",,15000,288
+100139,Cover,"Offset Paperback MFG, Inc.",Fairfield - BVG,100# Gloss Cover 20 x 26,Emboss,Layflat Gloss,2026-04-06,"C, M, Y, K",,10000,192
+100140,Jacket,Fairfield - BVG,BERRYVILLE GRAPHICS,80# Matte Text 28 x 20,Lamination+Emboss,Emboss,2026-04-25,"C, M, Y, K, PMS 286, PMS 877",K,3500,224
+100141,Cover,Martinsburg - BVG,BERRYVILLE,80# Matte Text 28 x 20,Press Varnish,Gloss Polypropylene+Spot UV,2026-04-30,"C, M, Y, K","C, M, Y, K",2000,320
+100142,Jacket,Martinsburg - BVG,Martinsburg - BVG,100# Gloss Text 28 x 20,Lamination+UV Spot,Soft Touch Poly,2026-04-08,"C, M, Y, K, Black",K,20000,160
+100143,Jacket,Fairfield - BVG,Fairfield - BVG,100# Gloss Cover 20 x 26,Press Varnish,Soft Touch Poly,2026-05-18,"C, M, Y, K, PMS 286, PMS 877",K,3500,320
+100144,Cover,Martinsburg - BVG,BERRYVILLE,100# Gloss Cover 20 x 26,Emboss,Aqueous,2026-04-13,"C, M, Y, K",,10000,256
+100145,Jacket,"Offset Paperback MFG, Inc.",BERRYVILLE GRAPHICS,70# Uncoated Text 25 x 38,UV Overall,Aqueous,2026-04-07,"C, M, Y, K",,7500,160
+100146,Cover,Fairfield - BVG,BERRYVILLE GRAPHICS,70# Uncoated Text 25 x 38,Lamination+UV Spot,Gloss Polypropylene,2026-04-01,"C, M, Y, K",,15000,128
+100147,Jacket,BERRYVILLE,BERRYVILLE,100# Gloss Text 25 x 38,Press Varnish,Gloss Polypropylene,2026-05-12,"C, M, Y, K, PMS 485",K,2000,288
+100148,Cover,Martinsburg - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20 1/2,Lamination,Scuff Matte Polypropylene,2026-04-24,"C, M, Y, K, Black",K,7500,96
+100149,Cover,"Offset Paperback MFG, Inc.",BERRYVILLE,80# Gloss Text 28 x 20,Press Varnish,Matte Polypropylene+Foil,2026-05-08,"C, M, Y, K, Black",K,3500,288
+100150,Jacket,Martinsburg - BVG,BERRYVILLE GRAPHICS,80# Gloss Text 28 x 20,Lamination,Scuff Matte Polypropylene,2026-04-27,"C, M, Y, K","C, M, Y, K",5000,320

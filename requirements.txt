@@ -1,0 +1,10 @@
+ortools==9.9.3963
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.2
+python-dotenv==1.0.1
+apache-airflow==2.9.1
+
+# Production only (Snowflake)
+# snowflake-snowpark-python==1.20.0
+# office365-rest-python-client==2.5.12

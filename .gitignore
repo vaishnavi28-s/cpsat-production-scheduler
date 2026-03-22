@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.xlsx
+!data/sample_jobs.csv
+.DS_Store
+venv/
+.venv/
+logs/
+*.log
