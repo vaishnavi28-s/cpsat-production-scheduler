@@ -159,6 +159,6 @@ This repository uses **synthetic demo data only**. No proprietary Bertelsmann da
 
 ---
 
-## License
-
-MIT
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaishnavi-sreekumar-48199a197/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vaishnavi28-s)
