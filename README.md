@@ -1,8 +1,20 @@
 # Print Job Combo Optimizer
 
-An automated production scheduling system that optimally groups print jobs for combined press runs using **Google OR-Tools CP-SAT**, reducing press setup time and material waste.
+A general-purpose **production scheduling and optimization engine** built with 
+Google OR-Tools CP-SAT - applicable to any domain requiring constraint-based 
+job grouping, bin packing, or resource scheduling.
 
-Built at **Bertelsmann SE** for book cover and jacket production scheduling across multiple US manufacturing locations.
+> **Demo use case:** Book cover and jacket print run scheduling at Bertelsmann SE,
+> grouping jobs by compatibility constraints (materials, finishing, ink types, quantities)
+> to minimize manual efforts, press setups, planning time and material waste.
+
+Other domains this architecture applies to:
+- Manufacturing batch scheduling
+- Logistics route grouping
+- Resource allocation and shift planning
+- Any constraint-based bin packing problem
+
+Built at **Bertelsmann SE** production scheduling across multiple US manufacturing locations.
 
 ---
 
